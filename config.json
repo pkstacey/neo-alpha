@@ -1,0 +1,13 @@
+{
+    "api_key": "",
+    "selected_api": "Mars Rover Photos",
+    "selected_midi_port": "IAC Driver Logic Pro Virtual In",
+    "start_date": "2025-01-01",
+    "end_date": "2025-01-07",
+    "min_midi_note": 60,
+    "max_midi_note": 72,
+    "min_midi_velocity": 64,
+    "max_midi_velocity": 127,
+    "key": "C",
+    "tempo": 44
+}

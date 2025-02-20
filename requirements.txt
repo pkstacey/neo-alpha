@@ -1,0 +1,4 @@
+PyQt5>=5.15.0
+mido>=1.2.9
+python-rtmidi>=1.4.7
+requests>=2.25.1
